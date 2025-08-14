@@ -53,3 +53,5 @@ Voice Commands: Enable voice-based controls in smart applications.
 
 Conclusion
 The Speech-to-Text System built in this project demonstrates how pre-trained models can be used to create practical, real-world solutions with minimal development time. By providing both cloud-based and offline options, it caters to a variety of needs — from quick online transcription to privacy-sensitive offline processing. While this implementation focuses on short clips for simplicity, it lays a solid foundation for scaling up to continuous, real-time transcription and multilingual capabilities. This makes it a valuable addition to the CODTECH internship deliverables and an excellent demonstration of applied NLP and audio processing skills.
+
+[task2 output.txt](https://github.com/user-attachments/files/21769557/task2.output.txt)
